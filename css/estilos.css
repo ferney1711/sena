@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.mperson{
+    padding-left: 25px;
+
+}
+.mr{
+    max-width: 100%;
+    padding-left: 12%;
+    padding-right: 15%;
+    padding-bottom: 5%;
+}
+.titulo{
+    text-align: center;
+}
+
+.bgperson{
+    background: #6f91e1;
+}
+.lol{
+    color:#493688;
+ }
+ .lol:hover{
+    color:#b9ddf4;
+ }
+
+.minanc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.personalcontainer{
+    max-width: 45%;
+    
+ }
+ 
+ .q{
+    display: flex;
+    max-width: 100%;
+    padding-left : 15%;
+    padding-right : 15%;
+    padding-bottom: 3%;
+
+   }
+h6{
+    color: aliceblue;
+}
+.bgpie{
+    background-color:#6f91e1;
+}
+.lol2{
+    text-align: justify;
+}
